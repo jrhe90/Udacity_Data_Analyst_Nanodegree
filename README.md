@@ -22,6 +22,11 @@ A collection of my projects for Udacity  [Data Analyst Nanodegree](https://www.u
 * Project 5: Communicate Data Findings
 
 
+
+
+****************************************************************************
+
+
 ## PROJECT LICENSE
 
 This project was submitted by Jiarun He as part of the Nanodegree At Udacity.
