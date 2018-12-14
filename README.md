@@ -5,16 +5,18 @@ A collection of my projects for Udacity  [Data Analyst Nanodegree](https://www.u
 ## Courses
 
 * Introduction to Data Analysis with Python
-* Introduction to Data Analysis with SQL
 * Practical Statistics
-* Exploratory Data Analysis with R
+* Data Wrangling
+* Data Visualization
+* Intro to Machine Learning
+* Python
+* SQL
+* Git & Github
 
 ## Projects
 
-* Project 1: Explore US Bikeshare Data with Python
-* Project 2: Investigate a Dataset with Python – tMDB Dataset
-* Project 3: Analyze A/B Test Results with Python – E-commerce Website Data
-* Project 4: Test a Perceptual Phenomenon with Python – Analyzing the Stroop Effect
-* Project 5: Explore and Summarize White Wine Data with R
-* Project 6: Data Wrangling with Python - WeRateDogs Twitter account data
-* Project 7: Data Storytelling with Tableau - Titaninc database
+* Project 1: Explore Weather Trend
+* Project 2: Investigate a Dataset
+* Project 3: Analyze A/B Test Results
+* Project 4: Wrangle and Analyze Data
+* Project 5: Communicate Data Findings
